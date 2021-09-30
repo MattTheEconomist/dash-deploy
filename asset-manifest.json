@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/dash-deploy/static/css/main.fdc543f7.chunk.css",
-    "main.js": "/dash-deploy/static/js/main.30a6fadb.chunk.js",
-    "main.js.map": "/dash-deploy/static/js/main.30a6fadb.chunk.js.map",
+    "main.js": "/dash-deploy/static/js/main.488ba8fe.chunk.js",
+    "main.js.map": "/dash-deploy/static/js/main.488ba8fe.chunk.js.map",
     "runtime-main.js": "/dash-deploy/static/js/runtime-main.5b1d03e9.js",
     "runtime-main.js.map": "/dash-deploy/static/js/runtime-main.5b1d03e9.js.map",
-    "static/js/2.b4635195.chunk.js": "/dash-deploy/static/js/2.b4635195.chunk.js",
-    "static/js/2.b4635195.chunk.js.map": "/dash-deploy/static/js/2.b4635195.chunk.js.map",
+    "static/js/2.4d6092c6.chunk.js": "/dash-deploy/static/js/2.4d6092c6.chunk.js",
+    "static/js/2.4d6092c6.chunk.js.map": "/dash-deploy/static/js/2.4d6092c6.chunk.js.map",
     "static/js/3.4de66383.chunk.js": "/dash-deploy/static/js/3.4de66383.chunk.js",
     "static/js/3.4de66383.chunk.js.map": "/dash-deploy/static/js/3.4de66383.chunk.js.map",
     "index.html": "/dash-deploy/index.html",
     "static/css/main.fdc543f7.chunk.css.map": "/dash-deploy/static/css/main.fdc543f7.chunk.css.map",
-    "static/js/2.b4635195.chunk.js.LICENSE.txt": "/dash-deploy/static/js/2.b4635195.chunk.js.LICENSE.txt"
+    "static/js/2.4d6092c6.chunk.js.LICENSE.txt": "/dash-deploy/static/js/2.4d6092c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b1d03e9.js",
-    "static/js/2.b4635195.chunk.js",
+    "static/js/2.4d6092c6.chunk.js",
     "static/css/main.fdc543f7.chunk.css",
-    "static/js/main.30a6fadb.chunk.js"
+    "static/js/main.488ba8fe.chunk.js"
   ]
 }
