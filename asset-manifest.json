@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dash-deploy/static/css/main.8bd01ac5.chunk.css",
-    "main.js": "/dash-deploy/static/js/main.82522677.chunk.js",
-    "main.js.map": "/dash-deploy/static/js/main.82522677.chunk.js.map",
+    "main.css": "/dash-deploy/static/css/main.270965d7.chunk.css",
+    "main.js": "/dash-deploy/static/js/main.06b1735b.chunk.js",
+    "main.js.map": "/dash-deploy/static/js/main.06b1735b.chunk.js.map",
     "runtime-main.js": "/dash-deploy/static/js/runtime-main.38dbf268.js",
     "runtime-main.js.map": "/dash-deploy/static/js/runtime-main.38dbf268.js.map",
-    "static/js/2.4715e8e4.chunk.js": "/dash-deploy/static/js/2.4715e8e4.chunk.js",
-    "static/js/2.4715e8e4.chunk.js.map": "/dash-deploy/static/js/2.4715e8e4.chunk.js.map",
+    "static/js/2.88fd4ff5.chunk.js": "/dash-deploy/static/js/2.88fd4ff5.chunk.js",
+    "static/js/2.88fd4ff5.chunk.js.map": "/dash-deploy/static/js/2.88fd4ff5.chunk.js.map",
     "static/js/3.4673f6b3.chunk.js": "/dash-deploy/static/js/3.4673f6b3.chunk.js",
     "static/js/3.4673f6b3.chunk.js.map": "/dash-deploy/static/js/3.4673f6b3.chunk.js.map",
     "index.html": "/dash-deploy/index.html",
-    "static/css/main.8bd01ac5.chunk.css.map": "/dash-deploy/static/css/main.8bd01ac5.chunk.css.map",
-    "static/js/2.4715e8e4.chunk.js.LICENSE.txt": "/dash-deploy/static/js/2.4715e8e4.chunk.js.LICENSE.txt",
+    "static/css/main.270965d7.chunk.css.map": "/dash-deploy/static/css/main.270965d7.chunk.css.map",
+    "static/js/2.88fd4ff5.chunk.js.LICENSE.txt": "/dash-deploy/static/js/2.88fd4ff5.chunk.js.LICENSE.txt",
     "static/media/prcIcon.0e2977c3.svg": "/dash-deploy/static/media/prcIcon.0e2977c3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.38dbf268.js",
-    "static/js/2.4715e8e4.chunk.js",
-    "static/css/main.8bd01ac5.chunk.css",
-    "static/js/main.82522677.chunk.js"
+    "static/js/2.88fd4ff5.chunk.js",
+    "static/css/main.270965d7.chunk.css",
+    "static/js/main.06b1735b.chunk.js"
   ]
 }
